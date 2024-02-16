@@ -1079,8 +1079,8 @@ h1.news_title {
 }
 
 .footer-lt-info {
-  /*display: flex;*/
-  flex-wrap: wrap;
+  display: flex;
+  /*flex-wrap: wrap;*/
   align-content: flex-start;
   justify-content: flex-start;
   align-items: flex-start;
@@ -1091,7 +1091,7 @@ h1.news_title {
 @media (max-width: 768px) {
   .footer-lt-info .footer-menu {
     margin-left: 0%;
-    flex-basis: 50%;
+    /*flex-basis: 50%;*/
     margin: 5% 0;
   }
 }
