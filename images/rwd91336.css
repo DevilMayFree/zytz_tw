@@ -1093,6 +1093,8 @@ h1.news_title {
     margin-left: 0%;
     /*flex-basis: 50%;*/
     margin: 5% 0;
+    margin-left: 10px;!important;
+    margin-top: 0px;!important;
   }
 }
 .footer-lt-info .footer-menu li {
