@@ -1243,7 +1243,7 @@ h1.news_title {
   background-image: url("/rwd91336/store/F1/industrybanner.jpg");
 }
 .innerbanner.newsbanner, .innerbanner.eventbanner {
-  background-image: url("/rwd91336/store/F1/newsbanner.jpg");
+  background-image: url("https://www.tcvc.com.tw/rwd91336/store/F1/newsbanner.jpg");
 }
 .innerbanner.categorybanner {
   background-image: url("/rwd91336/store/F1/categorybanner.jpg");
